@@ -22,7 +22,7 @@ public class LoginPageTest extends BaseClass {
 
 	@AfterTest
 	public void tearDown() {
-		driver.close();
+		driver.quit();
 	}
 
 }
