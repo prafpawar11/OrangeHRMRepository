@@ -5,6 +5,7 @@
 		<classes>
 			<class name="TestLayer.LoginPageTest" />
 			<class name="TestLayer.HomePageTest" />
+			<class name="TestLayer.PIMPageTest" />
 		</classes>
 	</test> <!--
 	Test -->

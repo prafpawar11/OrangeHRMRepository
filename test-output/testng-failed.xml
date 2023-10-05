@@ -3,11 +3,11 @@
 <suite name="Failed suite [Orange HRM Application]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test Cases(failed)">
     <classes>
-      <class name="TestLayer.HomePageTest">
+      <class name="TestLayer.PIMPageTest">
         <methods>
-          <include name="validateHomePageTitle"/>
+          <include name="validateUserOnPIMPage"/>
         </methods>
-      </class> <!-- TestLayer.HomePageTest -->
+      </class> <!-- TestLayer.PIMPageTest -->
     </classes>
   </test> <!-- Test Cases(failed) -->
 </suite> <!-- Failed suite [Orange HRM Application] -->
