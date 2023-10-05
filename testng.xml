@@ -4,6 +4,7 @@
 	<test thread-count="5" name="Test Cases">
 		<classes>
 			<class name="TestLayer.LoginPageTest" />
+			<class name="TestLayer.HomePageTest" />
 		</classes>
 	</test> <!--
 	Test -->
